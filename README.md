@@ -4,7 +4,7 @@ This is a simple Python program that demonstrates how to create a RESTful API wi
 
 ## Installation
 
-1.Clone the repository
+1. Clone the repository
 
 2. Install the required dependencies by running:
 
